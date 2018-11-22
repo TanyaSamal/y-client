@@ -159,7 +159,21 @@ i {
 }
 
 @media (max-width: 660px) {
+  .search-form {
+    margin: 20px auto;
+  }
+
   .main {
     width: 324px;
   }
+
+  .video {
+    height: 410px;
+    margin: 0 18px;
+  }
+
+  .footer {
+    margin: 20px auto 10px;
+  }
+
 }
