@@ -161,6 +161,7 @@ i {
 @media (max-width: 660px) {
   .search-form {
     margin: 20px auto;
+    width: 60%;
   }
 
   .main {
@@ -168,8 +169,12 @@ i {
   }
 
   .video {
-    height: 410px;
+    height: 373px;
     margin: 0 18px;
+  }
+
+  .description {
+    height: 54px;
   }
 
   .footer {
